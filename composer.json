@@ -1,5 +1,5 @@
 {
-  "name": " mistertaavetti/wp-vercel-deploy-hooks",
+  "name": "mistertaavetti/wp-vercel-deploy-hooks",
   "version": "1.0.0",
   "type": "wordpress-plugin",
   "license": "GPLv3",
